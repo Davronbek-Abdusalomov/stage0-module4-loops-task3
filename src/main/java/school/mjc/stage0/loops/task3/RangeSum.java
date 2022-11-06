@@ -7,10 +7,10 @@ public class RangeSum {
             System.out.println(firstBoarder);
         }
         else {
-        for (int i=firstBoarder; i<secondBoarder+1; i++){
-            sum=sum+i;
+            for (int i=firstBoarder; i<secondBoarder+1; i++){
+                sum=sum+i;
+            }
             System.out.println(sum);
-           }
         }
     }
 }
