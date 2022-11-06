@@ -7,5 +7,6 @@ public class NinesSum {
            sum=sum+(sum*10+9);
         }
         System.out.println(sum);
+        
     }
 }
