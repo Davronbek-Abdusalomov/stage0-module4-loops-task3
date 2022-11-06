@@ -7,7 +7,6 @@ public class DigitsSum {
         for (int i=0; i<s.length(); i++){
 
             sum = sum + Integer.parseInt(String.valueOf(s.charAt(i)));
-
         }
         System.out.println(sum);
     }
