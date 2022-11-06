@@ -16,7 +16,7 @@ public class FibonacciSeries {
             n2=n3;
             if (n3==lastFibonacci){
                 break;
-            }
+           }
         }
     }
 }
